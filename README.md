@@ -1,6 +1,6 @@
 # data-structures-and-algorithms
 ## Table of content of Code Chellenges (401);
 
- | Fourth Level; Code (401) | Links for the Past Reading Notes | 
+ | Fourth Level; Code (401) | Links for the challenges | 
  | ----------- | -------------------------------- |
- | First challenge |    [First one]  |
+ | First challenge |    [First one](challenge_one)  |
