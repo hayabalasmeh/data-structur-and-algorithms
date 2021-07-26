@@ -4,3 +4,4 @@
  | Fourth Level; Code (401) | Links for the challenges | 
  | ----------- | -------------------------------- |
  | First challenge |    [First one](challenge_one)  |
+ | Second challenge |    [Second one](challenge_2)  |
