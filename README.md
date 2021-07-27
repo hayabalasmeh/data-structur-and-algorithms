@@ -5,3 +5,4 @@
  | ----------- | -------------------------------- |
  | First challenge |    [First one](challenge_one)  |
  | Second challenge |    [Second one](challenge_2)  |
+ | Third challenge |    [Third one](challenge_3)  |
