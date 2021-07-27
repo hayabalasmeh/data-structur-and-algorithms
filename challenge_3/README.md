@@ -8,3 +8,9 @@
 https://miro.com/app/board/o9J_l5ffISA=/
 
 ## Approach & Efficiency :
+- create the function for
+ the binary search purpose.
+-create a variable to hold the default value in case no match which will be -1
+-Inside this function add for loop that will iterate from the 0 index to the last index of the list
+-inside it put if statement to check if the value entered equal any values inside the list.
+- When match occur and the condition is true then assign the iteration number to the variable and return the variable

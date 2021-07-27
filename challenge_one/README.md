@@ -4,7 +4,8 @@
 ## Whiteboard Process:
 
 ## I have export it correctly from the withe borad but it show like broken image so I used instead a link it will direct you to the white board apge for this assigment as I amke it viewable for the this link holder 
-[image link]("https://miro.com/app/board/o9J_l5ReNOQ=/")
+
+https://miro.com/app/board/o9J_l5ReNOQ=/
 
 ## Approach & Efficiency :
 - I used the following approach:
